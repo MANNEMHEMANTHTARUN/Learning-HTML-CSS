@@ -1,0 +1,27 @@
+h1{
+
+	color: #af0b0b;
+    font-style: italic;
+}	
+
+h2 {
+	color: green;
+	 font-style: oblique;
+    }
+body{
+	background-color: yellow;
+	}
+hr{ 
+	
+    border: 2px solid red;
+	
+  }
+a{ 
+	color: #4a54c5;font-size: 40px;                                                                    
+}  
+footer{
+	border: 2px solid red;
+}
+ol{
+	color: grey
+}
